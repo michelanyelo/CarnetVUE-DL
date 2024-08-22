@@ -7,9 +7,8 @@ Este proyecto es parte del módulo "Desarrollo de interfaces interactivas con fr
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-brightgreen.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/)
-[![Popper](https://img.shields.io/badge/Popper-2.11-orange.svg?logo=popper.js&logoColor=white)](https://popper.js.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white)](https://vuejs.org/)
 
 
 ## ▶️ DEMO
@@ -24,17 +23,28 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/michelanyelo/investigandoAnimales-DL.git
+   git clone https://github.com/michelanyelo/CarnetVUE-DL.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd investigandoAnimales-DL
-
+   cd CarnetVUE-DL
    ```
 
-3. Abre el proyecto en tu IDE preferido.
+3. Instala las dependencias:
+
+   ```bash
+   npm install
+   ```
+
+4. Compila y Ejecuta:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Abre el proyecto en tu IDE preferido.
 
 ## 🤝 Contribución
 
@@ -58,4 +68,4 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ## 🧾 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/michelanyelo/investigandoAnimales-DL/blob/main/LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/michelanyelo/CarnetVUE-DL/blob/main/LICENSE) para más detalles.
